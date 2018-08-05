@@ -68,7 +68,7 @@ Example:
     	@Override
     	public void onCancel(AmbilWarnaDialog dialog) {
     		// cancel was selected by the user
-    	}
+    	}});
 
     dialog.show();
 
